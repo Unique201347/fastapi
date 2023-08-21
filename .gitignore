@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore generated documentation
+/docs/
+
+# Ignore cached or temporary files
+*.log
+*.tmp
+
+# Ignore project-specific files
+courses.json
+
+# Ignore editor-specific temporary files
+.vscode/
+
